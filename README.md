@@ -55,3 +55,11 @@ Explore the potential of integrating AR to make the gameplay more immersive, esp
 NFT-based Customization:
 
 Players can customize their in-game avatars or objects with NFTs, making the game more engaging.
+
+
+## Deployment
+
+Contact Address: 0x2cab2d73ee745991d3bf4fcf52adca40c980e1fcb5ff2c92236e6cc997b9e756
+Exploler Link: https://explorer.aptoslabs.com/txn/0x2cab2d73ee745991d3bf4fcf52adca40c980e1fcb5ff2c92236e6cc997b9e756?network=devnet
+
+<img width="1468" alt="Screenshot 2024-09-22 at 7 08 33 PM" src="https://github.com/user-attachments/assets/346a7be7-875b-4de0-8e20-3e3a2770fa87">
