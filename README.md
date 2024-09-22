@@ -17,15 +17,13 @@ This project is a decentralized Rock Paper Scissors game where a human can play 
 - **Aptos**: The blockchain network used for deploying the game.
 - **JavaScript/TypeScript**: For the frontend development.
 
-## How to Run the Project
-
 ### Prerequisites
 
 1. **Node.js** and **npm** or **yarn** installed.
 2. A wallet that supports the Aptos network.
 3. A local blockchain node or access to a testnet.
 
-Game Rules
+## Game Rules
 Both the human and robot make their choices from Rock, Paper, and Scissors.
 The smart contract verifies the moves and determines the winner.
 Rock beats Scissors
@@ -33,7 +31,7 @@ Scissors beats Paper
 Paper beats Rock
 The result is displayed on the frontend.
 
-Future Scope and Vision
+## Future Scope and Vision
 This project is currently a simple implementation of the Rock, Paper, Scissors game, but it has significant potential for expansion:
 
 Advanced AI for the Robot:
