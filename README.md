@@ -17,7 +17,7 @@ This project is a decentralized Rock Paper Scissors game where a human can play 
 - **Aptos**: The blockchain network used for deploying the game.
 - **JavaScript/TypeScript**: For the frontend development.
 
-### Prerequisites
+## Prerequisites
 
 1. **Node.js** and **npm** or **yarn** installed.
 2. A wallet that supports the Aptos network.
