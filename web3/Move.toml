@@ -1,0 +1,16 @@
+[package]
+name = "RockPvp"
+version = "1.0.0"
+authors = []
+
+[addresses]
+RockPaperScissors = "4b18ae161b7534f009ea5b2a16f61735e7d82142f2db1ebd35f7f494c3d4bcb7"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
